@@ -1,0 +1,38 @@
+body {
+    font-family: cursive;
+    background-color:#9BCBA6 ;
+}
+h1{
+   text-align: center;
+   color: #822E25;
+}
+p{
+    color: #822E25;
+}
+.link-nav{
+    color:#577822;
+    text-decoration: none;
+     background-color: #E4B3AE;
+
+    padding: 10px;
+}
+.link-header{
+color:#577822;
+    text-decoration: none;
+    background-color: #E4B3AE;
+    
+    padding: 10px;
+}
+header{
+   margin: 20px; 
+}
+ol{
+    color: #822E25;
+}
+h2{
+    color: #822E25;
+}
+.link-text{
+    text-decoration: none;
+    
+}
